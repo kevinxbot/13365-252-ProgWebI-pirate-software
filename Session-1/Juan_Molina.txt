@@ -1,0 +1,8 @@
+Nombre: Juan Molina
+edad: 20 Años
+programa académico: T. en Desarrollo de Software
+semestre actual: 4 Semestre
+algo extraño que te gusta hacer: Me gusta salir cuando esta lloviendo
+color favorito: azul
+¿tienes mascotas? (¿cuáles?): Si, un perro 
+intereses en el desarrollo de software: Me interesa desarrollar juegos y paginas web
